@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Facelesthegreat.aternos.me:27712",
+    "ip": "Facelesthegreat.aternos.me",
     "port": 27712,
     "version": "",
     "try-creative": false
