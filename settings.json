@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Facelesthegreat.aternos.me:27712",
+    "port": 27712,
     "version": "",
     "try-creative": false
   },
